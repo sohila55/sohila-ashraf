@@ -88,17 +88,6 @@ An interactive quiz experience with a polished UI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 GitHub Stats
-<div align="center">
-
-![Sohila's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohila55&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohila55&theme=tokyonight)
-
-</div>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 🌍 My Vision
 
 I'm building towards a future where mobile apps powered by AI help solve real challenges in our communities.
