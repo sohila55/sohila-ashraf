@@ -17,22 +17,26 @@ Hi, I'm Sohila Ashraf 👋🌸
 🌱 Always learning — turning ideas into real products one app at a time
 💡 I believe great apps come from combining clean code + thoughtful design + real purpose
 
------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack
 
 <div align="center">
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
 State Management: Cubit / BLoC  |  Architecture: Clean Architecture
 Backend: Firebase Firestore, Firebase Auth  |  UI: Material Design, Custom Widgets
 
 </div>
-------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Featured Projects
 
@@ -46,7 +50,7 @@ A full-featured shopping app with real backend integration
 ✅ Product listing, cart, and user flows
 🔗 View Project ← the link
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Task Management App
 
@@ -89,7 +93,6 @@ An interactive quiz experience with a polished UI
 ![Sohila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohila55&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohila55&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
