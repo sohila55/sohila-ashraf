@@ -91,9 +91,9 @@ An interactive quiz experience with a polished UI
 📊 GitHub Stats
 <div align="center">
 
-![Sohila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohila55&show_icons=true&theme=tokyonight&hide_border=true)
+![Sohila's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sohila55&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohila55&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohila55&theme=tokyonight)
 
 </div>
 
